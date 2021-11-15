@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-milan.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KermitOnDrugs/Portfolio-Milan.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KermitOnDrugs/Portfolio-Milan.com/issues"
+  },
+  "homepage": "https://github.com/KermitOnDrugs/Portfolio-Milan.com#readme"
+}
